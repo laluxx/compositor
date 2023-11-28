@@ -1,0 +1,3 @@
+* TODO
+- Add configuariton with a file watcher
+- Integrate opengl for cool animations
